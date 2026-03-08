@@ -4,7 +4,7 @@
   <img alt="CatSlicer logo" src="resources/images/CatSlicer.png" width="15%" height="15%">
 </picture>
 
-<a href="https://trendshift.io/repositories/15552" target="_blank"><img src="https://trendshift.io/api/badge/repositories/15552" alt="CatSlicer%2FOrcaSlicer | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/-15552" target="_blank"><img src="https://trendshift.io/api/badge/repositories/15552" alt="CatSlicer%2FOrcaSlicer | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/CatSlicer/CatSlicer)](https://github.com/jhfhngj/CatSlicer/stargazers) [![Build all](https://github.com/jhfhngj/CatSlicer/actions/workflows/build_all.yml/badge.svg?branch=main)](https://github.com/jhfhngj/CatSlicer/actions/workflows/build_all.yml)
 
